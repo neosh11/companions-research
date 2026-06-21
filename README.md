@@ -132,6 +132,10 @@ Planned structure:
 |   `-- safety-boundaries.md
 |-- papers/
 |   `-- README.md
+|-- research/
+|   `-- competitors/
+|       |-- AGENTS.md
+|       `-- README.md
 `-- prototypes/
     `-- README.md
 ```
