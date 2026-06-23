@@ -2,6 +2,10 @@
 
 One-page competitor notes for AI companion, character, voice, and avatar products.
 
+## Synthesis
+
+- [Competitor Synthesis](synthesis.md): what users like, hate, and wish these products had.
+
 ## Direct Companion / Character Products
 
 - [Replika](replika.md)

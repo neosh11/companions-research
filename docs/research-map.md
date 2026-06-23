@@ -23,6 +23,14 @@ This is the first reading list for the lab. Each paper should eventually get an 
 - Which proactive behaviors create repeated use without feeling intrusive?
 - Which job-to-be-done makes the companion worth returning to?
 
+## Storytelling and Personality
+
+- [Storytelling Literature Review](storytelling-literature-review.md)
+  - Ranked review of 30 academic sources on good storytellers, storytelling environments, narrative transportation, oral storytelling, self-disclosure, psychological safety, story circles, and human-AI storytelling.
+  - Read for companion behavior, memory design, voice interaction, personality, and user storytelling loops.
+- [Storytelling Synthesis By Ideas](storytelling-synthesis-by-ideas.md)
+  - Cross-paper synthesis grouped by the core ideas that matter for product design: transportation, tellability, performance, identity, emotion, disclosure, safety, group setting, and human-AI agency.
+
 ## Long-Term Memory
 
 - [Practical Considerations for AI Assistants with Long-Term Memory](https://arxiv.org/html/2409.11192v1)
